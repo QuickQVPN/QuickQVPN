@@ -2,9 +2,17 @@
 * Android
     > [Android版本下载](https://dl.js7.link/quickq/download/quickq.apk)
 * iOS
-    > [iOS版本下载](itms-services:///?action=download-manifest&url=https://dl.js7.link/quickq/download/quickq.plist)
+    > [iOS版本下载](https://js66.fun/apps)
+    > 
+![image](https://user-images.githubusercontent.com/94595489/142377742-34ffa5f0-cb32-4d8f-b713-3bd792f35136.png)
+移动端可扫码下载
 * Windows
     > [Windows版本下载](https://dl.js7.link/quickq/download/win32-67-installer.exe)
-* Mac os
-     > [Mac m1版本下载](https://dl.js7.link/quickq/download/darwin-quickq-arm.dmg)
-         l [Mac Intel版本下载](https://dl.js7.link/quickq/download/darwin-quickq.dmg)
+* Mac os 10.13.0以上
+     > [M1版本下载](https://dl.js7.link/quickq/download/darwin-quickq-arm.dmg)                                                                                                        
+     [Intel版本下载](https://dl.js7.link/quickq/download/darwin-quickq.dmg)
+* Mac os 10.13.0以下
+     > [M1版本下载](https://dl.js7.link/quickq/download/QuickQ-for-macOS-arm.zip)                                                                                                        
+     [Intel版本下载](https://dl.js7.link/quickq/download/QuickQ-for-macOS.zip)
+* Linux（支持Ubuntu LTS 16.04以上, 仅支持Intel/AMD的x64处理器）
+     > [DEB下载](https://dl.js7.link/quickq/download/linux-quickq.deb)          
