@@ -7,4 +7,4 @@
     > [Windows版本下载](https://dl.js7.link/quickq/download/win32-67-installer.exe)
 * Mac os
     > [Mac m1版本下载](https://dl.js7.link/quickq/download/darwin-quickq-arm.dmg)
-  > [Mac Intel版本下载](https://dl.js7.link/quickq/download/darwin-quickq.dmg)
+ > [Mac Intel版本下载](https://dl.js7.link/quickq/download/darwin-quickq.dmg)
