@@ -15,5 +15,7 @@
      [Intel版本下载](https://dl.js7.link/quickq/download/QuickQ-for-macOS.zip)
 * Linux（仅支持Intel/AMD的x64处理器）
      > [DEB下载](https://dl.js7.link/quickq/download/linux-quickq.deb)
-       
-**请收藏本网页，以防丢失。**
+     
+* **支持解锁流媒体线路，一键即可探索**
+![image](https://user-images.githubusercontent.com/94595489/142818571-18cd9576-24a1-40e5-b0b7-816772e337c5.png)
+* **请收藏本页，防止丢失**
