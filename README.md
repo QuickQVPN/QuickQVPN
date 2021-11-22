@@ -17,5 +17,5 @@
      > [DEB下载](https://dl.js7.link/quickq/download/linux-quickq.deb)
      
 * **支持解锁流媒体线路，一键即可探索**
-![image](https://user-images.githubusercontent.com/94595489/142818571-18cd9576-24a1-40e5-b0b7-816772e337c5.png)
+![image](https://user-images.githubusercontent.com/94595489/142841552-fb54ad2b-d759-46e9-a24c-a3c53ed086af.png)
 * **请收藏本页，防止丢失**
