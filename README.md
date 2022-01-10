@@ -1,8 +1,8 @@
 # 官方版本下载链接
 * Android
-    > [Android版本下载](http://dl.aillnet.cn/quickq/download/quickq-sm.apk)
+    > [Android版本下载](https://dl.js7.link/quickq/download/quickq.apk)
 * iOS
-    > [iOS版本下载](https://js66.fun/apps)
+    > [iOS版本下载](https://js66.site/apps)
 *   **移动端可扫码下载**
     >![image](https://user-images.githubusercontent.com/94595489/142379188-c85e8f8b-377b-45c1-873c-8d4f57f17df9.png)
 * Windows
