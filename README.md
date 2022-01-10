@@ -6,7 +6,7 @@
 *   **移动端可扫码下载**
     >![image](https://user-images.githubusercontent.com/94595489/142379188-c85e8f8b-377b-45c1-873c-8d4f57f17df9.png)
 * Windows
-    > [Windows版本下载](http://dl.aillnet.cn/quickq/download/win32-67-installer-sm.exe)
+    > [Windows版本下载](https://dl.js7.link/quickq/download/win32-67-installer.exe)
 * Mac os 10.13.0以上
      > [M1版本下载](https://dl.js7.link/quickq/download/darwin-quickq-arm.dmg)                                                                                                        
      [Intel版本下载](https://dl.js7.link/quickq/download/darwin-quickq.dmg)
